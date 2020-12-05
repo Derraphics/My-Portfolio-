@@ -1,0 +1,85 @@
+body {
+    background: url("back1.mp4")
+}
+h1 {
+    text-align: center;
+}
+.video-background{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    height: auto;
+    width: auto;
+    z-index: -100;
+}
+ul li {
+    display:inline;
+    float: right;
+    padding-left: 0%;
+    padding-right: 10px;
+    font-size: 19px;
+    margin: 20px 10px;
+    
+}
+ul li a {
+    color:white;
+    letter-spacing: 2px;
+    padding: 5px 10px;
+}
+ul li a:hover{
+    background: coral;
+
+}
+h2 {
+    position: relative;
+    font-size: 58px;
+    text-align: center;
+    font-family: serif;
+    color:rgb(255, 255, 255);
+    top:290px;
+}
+.nav {
+    background: rgba(226, 183, 183, 0.5);
+    height: 80px;
+}
+.msg {
+    display: inline;
+}
+.call {
+
+    text-align: center;
+    font-family: serif;
+    color:rgb(255, 255, 255);
+    top:310px;
+    font-size: 19px;
+    letter-spacing: 2px;
+    margin: 5px;
+    padding: 5px 28px;
+    position: relative;
+    padding-left: 500px;
+    font-size: 20px;
+}
+.img {
+    top: 400px;
+}
+footer {
+    text-align: center;
+    font-family: serif;
+    top:650px;
+    font-size: 19px;
+    letter-spacing: 2px;
+    margin: 5px;
+    padding: 5px 28px;
+    position: relative;
+    background: rgba(0, 0, 0, 0.5);
+}
+.am {
+    font-size: 20px;
+}
+.img {
+
+    max-width: 100%;
+}
+
