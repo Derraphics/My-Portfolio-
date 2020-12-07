@@ -34,7 +34,7 @@ ul li a:hover{
 }
 h2 {
     position: relative;
-    font-size: 58px;
+    font-size: 75px;
     text-align: center;
     font-family: serif;
     color:rgb(255, 255, 255);
@@ -58,7 +58,7 @@ h2 {
     margin: 5px;
     padding: 5px 28px;
     position: relative;
-    padding-left: 500px;
+    padding-left: 800px;
     font-size: 20px;
 }
 .img {
