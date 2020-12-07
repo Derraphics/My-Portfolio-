@@ -43,6 +43,7 @@ h2 {
 .nav {
     background: rgba(226, 183, 183, 0.5);
     height: 80px;
+    padding-left: 10px;
 }
 .msg {
     display: inline;
