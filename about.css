@@ -42,7 +42,9 @@ footer {
 .img {
     padding-right: 100px;
     max-width: 100%;
-}footer {
+}
+
+footer {
     text-align: center;
     font-family: serif;
     top:650px;
